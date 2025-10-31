@@ -7,7 +7,7 @@ The dataset is the "Penguins" dataset, which contains information about differen
 1. Number of Rows: 344
 2. Number of Columns: 7
 
-Column Descriptions:
+### Column Descriptions:
 
 1. species: The species of the penguin (e.g., Adelie, Gentoo, Chinstrap).
 2. Island: The island where the penguin was observed (e.g., Torgersen, Biscoe, Dream).
